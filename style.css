@@ -1,0 +1,38 @@
+body{
+    background-color:#D0C0C0;
+      margin: 0;
+    padding top: 800px;
+    text-align: center;
+    
+        
+}
+#img{
+    border-radius: 50%;
+        margin-bottom: 50px;
+    width: 300px;
+         height: 300px;
+}
+    
+    .menu{
+    list-style: none;
+    font-family: sans-serif;
+    position: absolute;
+    top: 10px;
+    text-align: left;
+    z-index: 10px;
+    cursor: pointer;
+        font-size: 200px;
+}
+.links{
+    float: left;
+    color: aliceblue;
+    padding top:8px;
+ padding left: 11px;
+     padding right:11px;
+          padding bottom:8px;
+              font-family: inherit;
+    font-size:100px;
+}
+.links:hover{
+background color:dodgerblue;
+    }
